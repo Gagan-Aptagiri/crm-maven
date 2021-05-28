@@ -90,12 +90,6 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>com.heroku</groupId>
-			<artifactId>webapp-runner-main</artifactId>
-			<version>${webapp-runner.version}</version>
-		</dependency>
-
 	</dependencies>
 
 	<build>
